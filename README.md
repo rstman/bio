@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pavel
 ==============================================================================================================================
 
-Java ✅ HTML CSS ✅ Maven ✅ Postgre SQL ✅ Spring ⏳
+Java ✅ HTML CSS ✅ Maven ✅ Postgre SQL ✅ Spring ✅
 ------------------------------------------------
 
-I'm a student in CZU. I have 2+ years of experience in Java, also PostgreSQL, Maven.
+I'm a student in CZU. I have 3+ years of experience in Java, also PostgreSQL, Maven, Hibernate.
 
 * 🌍  I'm based in Czech Republic
+* 🧠  I have experience working with corporate projects
+* ⚡  Interested in new ideas and startups
 * ✉️  You can contact me at [pashasinitsyn@mail.ru](mailto:pashasinitsyn@mail.ru)
-* 🧠  I'm learning Java Spring framework
-* ⚡  Looking for a job as a backend developer
 
 ### Skills
 
